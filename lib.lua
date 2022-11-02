@@ -1,3 +1,4 @@
+--NOT MINE https://github.com/wally-rblx, https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/Library
 local InputService = game:GetService('UserInputService');
 local TextService = game:GetService('TextService');
 local TweenService = game:GetService('TweenService');
@@ -2998,3 +2999,4 @@ function Library:CreateWindow(...)
 end;
 
 return Library
+--AGAIN, NOT MINE
