@@ -1,4 +1,4 @@
---NOT MINE https://github.com/wally-rblx, https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/Library.lua
+--NOT MINE https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/Library.lua https://github.com/wally-rblx
 
 local InputService = game:GetService('UserInputService');
 local TextService = game:GetService('TextService');
